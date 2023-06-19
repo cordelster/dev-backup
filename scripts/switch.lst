@@ -1,0 +1,8 @@
+# NUMBER@DEVICE_TYPE@CONNECTION_PROTOCOL@DEVICE_USER@USER_PASSWORD@ENABLE_PASSWORD@DEVICE_ADDRESS@DEVICE_PORT
+1@nxos@ssh@@admin_user@Dev_Password@none@10.16.167.244@22
+2@nxos@ssh@@admin_user@Dev_Password@none@10.16.167.245@22
+3@nxos@ssh@@admin_user@Dev_Password@none@10.16.167.246@22
+4@nxos@ssh@@admin_user@Dev_Password@none@10.16.167.247@22
+5@nxos@sshnokey@@admin_user@Dev_Password@none@10.16.167.248@22
+6@nxos@sshnokey@@admin_user@Dev_Password@none@10.16.167.249@22
+7@nxos@ssh@@admin_user@Dev_Password@none@10.16.167.240@22
