@@ -1,6 +1,6 @@
 # device-backup-git
-### This script is run daily on the Cisco switches for the PS-Lab
-https://10.16.160.2/NetApp/Lab_Switch_Configs
+### This script is run daily on the Cisco switches
+Stores in git enabled folder
 
 # Description
 This script allows network backups of Cisco switches and routers via ssh or telnet, Linux /etc/folders via rsync, config file can be encrypted using openssl, Netapp 1610 backup is also posible.
