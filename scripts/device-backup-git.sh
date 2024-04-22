@@ -67,7 +67,7 @@ case "$TERM" in
 esac;
 
 if [ "${VERB}" -eq 2 ]; then
-	echo -ne "Contact: Corey DeLasaux <corey.delasaux@netapp.com>\n<cordelster@gmail.com>\nVersion: ""$VERSION""\n\n";
+	echo -ne "Contact: Corey DeLasaux <cordelster@gmail.com>\nVersion: ""$VERSION""\n\n";
 	exit 0
 fi;
 GITDIR=`sed 's/\/$//' <<<"${GITDIR}"`;
