@@ -5,10 +5,8 @@ Stores in git enabled folder
 # Description
 This script allows network backups of Cisco switches and routers via ssh or telnet, Linux /etc/folders via rsync, config file can be encrypted using openssl, Netapp 1610 backup is also posible.
 
-Not for use outside of the lab!
-Other projects are currently created for other BU's specific to their requests.
 
-It stores the configs in git repositories.
+It stores the backed up configs in git repositories for version tracking.
 
 # How to use
 
